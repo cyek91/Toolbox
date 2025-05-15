@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "java8": "%JAVA_HOME_8%/bin/java",
+    "java11": "%JAVA_HOME_11%/bin/java",
+    "java17": "%JAVA_HOME_17%/bin/java",
+    "python3": "python",
+    "open": "explorer"
+  },
+  "_comment": "自动构建分类数量和名称，然后在工具界面使用添加工具功能添加工具",
+  "categories": [
+    {
+      "name": "",
+      "tools": []
+    }
+  ]
+}
